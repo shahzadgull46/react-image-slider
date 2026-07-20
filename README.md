@@ -4,6 +4,9 @@ A modern and responsive **Image Slider application** built using React.
 This project demonstrates interactive UI development, React components, state management, and dynamic image rendering.
 
 ---
+## 🌐 Live Demo
+
+🔗 https://react-image-slider-6nva.vercel.app
 
 ## 🚀 Features
 
